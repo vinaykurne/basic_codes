@@ -1,2 +1,3 @@
 # basic_codes
-THis is for all the basic codes 
+Thhis is for all the basic codes 
+The codes will be all prime/odd numbers prime numbers and palindrom number etc
